@@ -1,0 +1,235 @@
+#NEXUS
+[written Fri Apr 08 16:50:38 EDT 2022 by Mesquite  version 3.70 (build 940) at Serenas-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=181;
+	TAXLABELS
+		Metzgeriales Marchantiales Orthotrichales Bryales Rhizogoniales Hypnales Leucodontales Funariales Grimmiales Pottiales Dicranales Sphagnales Polytrichales Lycopodiaceae Psilotaceae Osmundaceae Anemiaceae Lygodiaceae Salviniaceae Azollaceae Dryopteridaceae Polypodiaceae Pteridaceae Pinaceae Taxaceae Cupressaceae Nymphaeaceae Ceratophyllaceae Araceae Hydrocharitaceae Alismataceae Juncaginaceae Zosteraceae Potamogetonaceae Dioscoreaceae Smilacaceae Liliaceae Iridaceae Asparagaceae Typhaceae Juncaceae Cyperaceae Poaceae Arecaceae Commelinaceae Cannaceae Lauraceae Myristicaceae Annonaceae Ranunculaceae Berberidaceae Papaveraceae Polygonaceae Simmondsiaceae Caryophyllaceae Amaranthaceae Chenopodiaceae Aizoaceae Portulacaceae Cactaceae Cornaceae Lecythidaceae Theaceae Ebenaceae Sapotaceae Primulaceae Ericaceae Adoxaceae Caprifoliaceae Araliaceae Apiaceae Asteraceae Rubiaceae Apocynaceae Convolvulaceae Solanaceae Boraginaceae Oleaceae Plantaginaceae Scrophulariaceae Pedaliaceae Bignoniaceae Verbenaceae Lamiaceae Orobanchaceae Grossulariaceae Crassulaceae Haloragaceae Vitaceae Geraniaceae Onagraceae Lythraceae Myrtaceae Salvadoraceae Brassicaceae Capparaceae Cistaceae Malvaceae Sterculiaceae Tiliaceae Bixaceae Bombacaceae Anacardiaceae Burseraceae Sapindaceae Meliaceae Rutaceae Zygophyllaceae Irvingiaceae Clusiaceae Ochnaceae Violaceae Passifloraceae Euphorbiaceae Linaceae Fabaceae Rosaceae Elaeagnaceae Rhamnaceae Urticaceae Ulmaceae Cannabaceae Moraceae Cucurbitaceae Fagaceae Juglandaceae Betulaceae Charales Zygnematales Sphaeropleales Chlamydomonadales Tetrasporales Chaetophorales Prasiolales Chlorellales Cladophorales Ulvales Ulotrichales Chlorodendrales Nephroselmidales Pseudoscourfieldiales Mamiellales Pyramimonadales Nemastomatales Gracilariales Gelidiales Ceramiales Gigartinales Peyssonneliales Bonnemaisoniales Corallinales Nemaliales Acrochaetiales Batrachospermales Stylonematales Porphyridiales Amphidiniales Gymnodiniales Prorocentrales Peridiniales Thalassiosirales Bacillariales Fragilariales Naviculales Thalassiophysales Eustigmatales Chromulinales Chattonellales Tribonematales Ectocarpales Laminariales Ralfsiales Tilopteridales Fucales Desmarestiales Sphacelariales Dictyotales Cryptomonadales Pyrenomonadales Isochrysidales Pavlovales 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 01800af15dc034;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Metzgeriales,
+[1] 		2 Marchantiales,
+[2] 		3 Orthotrichales,
+[3] 		4 Bryales,
+[4] 		5 Rhizogoniales,
+[5] 		6 Hypnales,
+[6] 		7 Leucodontales,
+[7] 		8 Funariales,
+[8] 		9 Grimmiales,
+[9] 		10 Pottiales,
+[10] 		11 Dicranales,
+[11] 		12 Sphagnales,
+[12] 		13 Polytrichales,
+[13] 		14 Lycopodiaceae,
+[14] 		15 Psilotaceae,
+[15] 		16 Osmundaceae,
+[16] 		17 Anemiaceae,
+[17] 		18 Lygodiaceae,
+[18] 		19 Salviniaceae,
+[19] 		20 Azollaceae,
+[20] 		21 Dryopteridaceae,
+[21] 		22 Polypodiaceae,
+[22] 		23 Pteridaceae,
+[23] 		24 Pinaceae,
+[24] 		25 Taxaceae,
+[25] 		26 Cupressaceae,
+[26] 		27 Nymphaeaceae,
+[27] 		28 Ceratophyllaceae,
+[28] 		29 Araceae,
+[29] 		30 Hydrocharitaceae,
+[30] 		31 Alismataceae,
+[31] 		32 Juncaginaceae,
+[32] 		33 Zosteraceae,
+[33] 		34 Potamogetonaceae,
+[34] 		35 Dioscoreaceae,
+[35] 		36 Smilacaceae,
+[36] 		37 Liliaceae,
+[37] 		38 Iridaceae,
+[38] 		39 Asparagaceae,
+[39] 		40 Typhaceae,
+[40] 		41 Juncaceae,
+[41] 		42 Cyperaceae,
+[42] 		43 Poaceae,
+[43] 		44 Arecaceae,
+[44] 		45 Commelinaceae,
+[45] 		46 Cannaceae,
+[46] 		47 Lauraceae,
+[47] 		48 Myristicaceae,
+[48] 		49 Annonaceae,
+[49] 		50 Ranunculaceae,
+[50] 		51 Berberidaceae,
+[51] 		52 Papaveraceae,
+[52] 		53 Polygonaceae,
+[53] 		54 Simmondsiaceae,
+[54] 		55 Caryophyllaceae,
+[55] 		56 Amaranthaceae,
+[56] 		57 Chenopodiaceae,
+[57] 		58 Aizoaceae,
+[58] 		59 Portulacaceae,
+[59] 		60 Cactaceae,
+[60] 		61 Cornaceae,
+[61] 		62 Lecythidaceae,
+[62] 		63 Theaceae,
+[63] 		64 Ebenaceae,
+[64] 		65 Sapotaceae,
+[65] 		66 Primulaceae,
+[66] 		67 Ericaceae,
+[67] 		68 Adoxaceae,
+[68] 		69 Caprifoliaceae,
+[69] 		70 Araliaceae,
+[70] 		71 Apiaceae,
+[71] 		72 Asteraceae,
+[72] 		73 Rubiaceae,
+[73] 		74 Apocynaceae,
+[74] 		75 Convolvulaceae,
+[75] 		76 Solanaceae,
+[76] 		77 Boraginaceae,
+[77] 		78 Oleaceae,
+[78] 		79 Plantaginaceae,
+[79] 		80 Scrophulariaceae,
+[80] 		81 Pedaliaceae,
+[81] 		82 Bignoniaceae,
+[82] 		83 Verbenaceae,
+[83] 		84 Lamiaceae,
+[84] 		85 Orobanchaceae,
+[85] 		86 Grossulariaceae,
+[86] 		87 Crassulaceae,
+[87] 		88 Haloragaceae,
+[88] 		89 Vitaceae,
+[89] 		90 Geraniaceae,
+[90] 		91 Onagraceae,
+[91] 		92 Lythraceae,
+[92] 		93 Myrtaceae,
+[93] 		94 Salvadoraceae,
+[94] 		95 Brassicaceae,
+[95] 		96 Capparaceae,
+[96] 		97 Cistaceae,
+[97] 		98 Malvaceae,
+[98] 		99 Sterculiaceae,
+[99] 		100 Tiliaceae,
+[100] 		101 Bixaceae,
+[101] 		102 Bombacaceae,
+[102] 		103 Anacardiaceae,
+[103] 		104 Burseraceae,
+[104] 		105 Sapindaceae,
+[105] 		106 Meliaceae,
+[106] 		107 Rutaceae,
+[107] 		108 Zygophyllaceae,
+[108] 		109 Irvingiaceae,
+[109] 		110 Clusiaceae,
+[110] 		111 Ochnaceae,
+[111] 		112 Violaceae,
+[112] 		113 Passifloraceae,
+[113] 		114 Euphorbiaceae,
+[114] 		115 Linaceae,
+[115] 		116 Fabaceae,
+[116] 		117 Rosaceae,
+[117] 		118 Elaeagnaceae,
+[118] 		119 Rhamnaceae,
+[119] 		120 Urticaceae,
+[120] 		121 Ulmaceae,
+[121] 		122 Cannabaceae,
+[122] 		123 Moraceae,
+[123] 		124 Cucurbitaceae,
+[124] 		125 Fagaceae,
+[125] 		126 Juglandaceae,
+[126] 		127 Betulaceae,
+[127] 		128 Charales,
+[128] 		129 Zygnematales,
+[129] 		130 Sphaeropleales,
+[130] 		131 Chlamydomonadales,
+[131] 		132 Tetrasporales,
+[132] 		133 Chaetophorales,
+[133] 		134 Prasiolales,
+[134] 		135 Chlorellales,
+[135] 		136 Cladophorales,
+[136] 		137 Ulvales,
+[137] 		138 Ulotrichales,
+[138] 		139 Chlorodendrales,
+[139] 		140 Nephroselmidales,
+[140] 		141 Pseudoscourfieldiales,
+[141] 		142 Mamiellales,
+[142] 		143 Pyramimonadales,
+[143] 		144 Nemastomatales,
+[144] 		145 Gracilariales,
+[145] 		146 Gelidiales,
+[146] 		147 Ceramiales,
+[147] 		148 Gigartinales,
+[148] 		149 Peyssonneliales,
+[149] 		150 Bonnemaisoniales,
+[150] 		151 Corallinales,
+[151] 		152 Nemaliales,
+[152] 		153 Acrochaetiales,
+[153] 		154 Batrachospermales,
+[154] 		155 Stylonematales,
+[155] 		156 Porphyridiales,
+[156] 		157 Amphidiniales,
+[157] 		158 Gymnodiniales,
+[158] 		159 Prorocentrales,
+[159] 		160 Peridiniales,
+[160] 		161 Thalassiosirales,
+[161] 		162 Bacillariales,
+[162] 		163 Fragilariales,
+[163] 		164 Naviculales,
+[164] 		165 Thalassiophysales,
+[165] 		166 Eustigmatales,
+[166] 		167 Chromulinales,
+[167] 		168 Chattonellales,
+[168] 		169 Tribonematales,
+[169] 		170 Ectocarpales,
+[170] 		171 Laminariales,
+[171] 		172 Ralfsiales,
+[172] 		173 Tilopteridales,
+[173] 		174 Fucales,
+[174] 		175 Desmarestiales,
+[175] 		176 Sphacelariales,
+[176] 		177 Dictyotales,
+[177] 		178 Cryptomonadales,
+[178] 		179 Pyrenomonadales,
+[179] 		180 Isochrysidales,
+[180] 		181 Pavlovales;
+	TREE Imported_tree_1 = (((((((((1,2)),(((((3,4,5,6,7),(8,9,10,11)),12),13)))),(14,((15,(16,((17,18),((19,20),((21,22),23))))),((24,(25,26)),(27,(28,((((29,((30,31),(32,(33,(34))))),(35,(((36,37),(38,39)),(((40,((41,42),43)),((44,45),46)))))),(((47,(48,49)),((50,51),52)),(((53,(54,((55,56,57),(58,(59,60))))),((61,(62,(63,(64,(65,(66,(67)))))))),(((68,69),((70,71),72)),((73,74),((75,76),(77,(78,(79,(80,(81,(82,(83,(84,(85)))))))))))))),((86,(87,88)),(((89,(90,((91,(92,93)),(((94,(95,(96))),((97,(98,99,100),101,102),((((103,104),105),106),107))))))),((108,(((109,(110,111)),(112,113),114,115))),(116,(((117,(((118,119),120),((121,(122,(123)))))),(124,(125,(126,127))))))))))))))))))),((((128,129),(((((((((((130),(131,132)),(133)),(((134),(135)))),(((136),(137,138))))),139),(140,141)),142),143)))),((((((((((144,145),146),147),(148,149)),150),151)),(((152,153),154))),(155,156)))))),((((157,158,159,160),((161),(162,163,164,165),(166,167,168,((169),((((170,171),((172,173),(174)),(175)),(176,177)))))))),(((178,179),(180,181))))));
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1649451038277;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 3191179106751592036;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState true false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		endTell;
+end;
+
+
